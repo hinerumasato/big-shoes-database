@@ -1,0 +1,297 @@
+{
+  "users": [
+    {
+      "email": "thangloitran406@gmail.com",
+      "password": "135792468jK",
+      "firstName": "Trần",
+      "name": "Thắng Lợi",
+      "phoneNumber": "0879603547",
+      "createdAt": 1671015541624,
+      "id": 1,
+      "buy-products": [
+        {
+          "name": "Giày da Converse cao cấp",
+          "price": "1.200.000₫",
+          "image": "./Assets/Img/shoes_1.webp",
+          "type": "Giày da",
+          "colors": [
+            "đen",
+            "xanh",
+            "trắng"
+          ],
+          "description": "- Mắt xỏ dây âm với dây cột nylon\\n- Lót trong bằng da thoáng khí tự nhiên\\n- Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân",
+          "id": 1
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "name": "Giày da Converse cao cấp",
+      "price": "1.200.000₫",
+      "image": "./Assets/Img/shoes_1.webp",
+      "type": "Giày da",
+      "colors": [
+        "đen",
+        "xanh",
+        "trắng"
+      ],
+      "description": "- Mắt xỏ dây âm với dây cột nylon\\n- Lót trong bằng da thoáng khí tự nhiên\\n- Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân",
+      "id": 1
+    },
+    {
+      "name": "Giày thể thao Converse 4",
+      "price": "600.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/4-min-b44f4156-7226-4759-a2a2-545531ef7c8d.jpg",
+      "type": "Giày Thể Thao",
+      "description": "undefined",
+      "colors": [
+        "Đỏ",
+        "Xanh",
+        "Vàng"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Giày Converse Madison Mono",
+      "price": "400.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/15-min.jpg",
+      "type": "Giày Vải",
+      "description": "undefined",
+      "id": 3
+    },
+    {
+      "name": "Giày đi chơi Converse 10",
+      "price": "500.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/10-min-be485457-fa1e-4f94-86f2-eee3d23a2427.jpg",
+      "type": "Giày Vải",
+      "description": "undefined",
+      "id": 4
+    },
+    {
+      "name": "Giày vải Star Floral Crochet",
+      "price": "600.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/12-min-8d0c4ba4-79cd-411a-89ee-10a20344b262.jpg",
+      "type": "Giày vải",
+      "description": "undefined",
+      "id": 5
+    },
+    {
+      "name": "Giày Chuck Taylor All Star II Neon",
+      "price": "650.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/16-min-770ff8b8-1fdd-430b-a12e-e42219f9e4bd.jpg",
+      "type": "Giày vải",
+      "description": "undefined",
+      "id": 6
+    },
+    {
+      "name": "Giày Converse Peach Canvas",
+      "price": "500.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/18-min-844301ae-4ad3-41e4-a9b3-db2b13f3abeb.jpg",
+      "type": "Giày vải",
+      "description": "undefined",
+      "id": 7
+    },
+    {
+      "name": "Giày vải Converse 3",
+      "price": "700.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/3-min-2aeb1bce-2365-43fc-ad76-752f82aafd51.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "createdAt": 1669367438106,
+      "id": 8
+    },
+    {
+      "name": "Giày Converse cao cấp loại nhỏ",
+      "price": "450.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/1-min.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "createdAt": 1669369373203,
+      "id": 9
+    },
+    {
+      "name": "Giày Converse Star Collar Break",
+      "price": "480.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/13-min-9a0b67fc-1d89-4277-8906-7b4b50c664d3.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "createdAt": 1669369513189,
+      "id": 10
+    },
+    {
+      "name": "Giày Converse Star Camo Rubber",
+      "price": "600.000₫",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/11-min.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "createdAt": 1669369679799,
+      "id": 11
+    },
+    {
+      "name": "Copy of Giày Converse Star Dainty",
+      "price": "Liên hệ",
+      "image": "//bizweb.dktcdn.net/thumb/grande/100/091/132/products/16-min-6e3aee76-ce87-4537-b513-8b3ebfd4ee1e.jpg?v=1490599565733",
+      "type": "Giày vải",
+      "description": "",
+      "createdAt": 1669370097303,
+      "id": 12
+    },
+    {
+      "name": "MEN'S RUNNER SNEAKER IN WHITE",
+      "price": "1.125.000₫",
+      "image": "https://balenciaga.dam.kering.com/m/79ea28e53bc10488/Large-677403W3RB29010_F.jpg?v=4",
+      "type": "Sneaker",
+      "description": "",
+      "createdAt": 1669385457388,
+      "id": 13
+    },
+    {
+      "name": "Bumper Gum EXT (Extension) NE ",
+      "price": "650.000₫",
+      "image": "./Assets/Img/Pro_AV00099_1.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "id": 14
+    },
+    {
+      "name": "Basas Bumper Gum NE",
+      "price": "580.000",
+      "image": "./Assets/Img/Pro_AV00020_1.jpg",
+      "type": "Giày vải",
+      "description": "",
+      "id": 15
+    },
+    {
+      "name": "Nike ZoomX",
+      "price": "5.279.000₫",
+      "image": "./Assets/Img/giay-chay-bo-nam-nike-zoomx-invincible-run-fk-ct2228-103-060722-100511-600x600.jpg",
+      "type": "Giày thể thao",
+      "description": "",
+      "id": 17
+    },
+    {
+      "name": " Nike Legend Essential",
+      "price": "1.759.000₫",
+      "image": "./Assets/Img/nike-legend-essential-2-cq9545-009-1.jpg",
+      "type": "Giày thể thao",
+      "description": "",
+      "id": 18
+    },
+    {
+      "name": " Nike City Rep",
+      "price": "1.909.000₫",
+      "image": "./Assets/Img/nike-city-rep-tr-da1351-101-1.jpg",
+      "type": "Giày thể thao",
+      "description": "",
+      "id": 19
+    },
+    {
+      "name": "Puma Liberate Nitro",
+      "price": "3.099.000₫",
+      "image": "./Assets/Img/puma-liberate-nitro-194458-2.jpg",
+      "type": "Giày thể thao",
+      "description": "",
+      "id": 20
+    },
+    {
+      "name": "Adidas Ultraboost ",
+      "price": "2.500.000₫",
+      "image": "./Assets/Img/adidas-ultraboost-21-fy3952-1.jpg",
+      "type": "Giày thể thao",
+      "description": "",
+      "id": 21
+    },
+    {
+      "name": "Akka Control 3",
+      "price": "590.000₫",
+      "image": "./Assets/Img/akkacontrol3-bac-1.jpg",
+      "type": "Giày bóng đá",
+      "description": "",
+      "id": 22
+    },
+    {
+      "name": "Akka Control 2 ",
+      "price": "245.000₫",
+      "image": "./Assets/Img/akka-control-2-vang-cam-1.jpg",
+      "type": "Giày bóng đá",
+      "description": "",
+      "id": 23
+    },
+    {
+      "name": "Akka Speed 2",
+      "price": "520.000₫",
+      "image": "./Assets/Img/giay-da-bong-nam-akka-speed-2-trang-dong-1.jpg",
+      "type": "Giày bóng đá",
+      "description": "",
+      "id": 24
+    },
+    {
+      "name": "Peak DA920231",
+      "price": "1.090.000₫",
+      "image": "./Assets/Img/giay-bong-ro-nam-peak-da920231-1.jpg",
+      "type": "Giày bóng rỗ",
+      "description": "",
+      "id": 26
+    },
+    {
+      "name": "Anta W312131121",
+      "price": "1.539.000₫",
+      "image": "./Assets/Img/anta-w312131121-1-1.jpg",
+      "type": "Giày bóng rỗ",
+      "description": "",
+      "id": 31
+    },
+    {
+      "name": "Peak Taichi E1",
+      "price": "1.890.000₫",
+      "image": "./Assets/Img/peak-e13551adxb-1.jpg",
+      "type": "Giày bóng rỗ",
+      "description": "",
+      "id": 32
+    },
+    {
+      "name": "Nike Kyrie Infinity",
+      "price": "3.829.000₫",
+      "image": "./Assets/Img/nike-kyrie-infinity-ep-dc9134-400-1-min.jpg",
+      "type": "Giày bóng rỗ",
+      "description": "",
+      "id": 33
+    },
+    {
+      "name": "Nike Blazer Mid 77",
+      "price": "2.929.000₫",
+      "image": "./Assets/Img/nike-city-rep-tr-da1351-101-1.jpg",
+      "type": "Giày bóng rỗ",
+      "description": "",
+      "id": 34
+    },
+    {
+      "name": "GIÀY LƯỜI L.V",
+      "price": "990.000₫",
+      "image": "https://topman.vn/wp-content/uploads/2021/12/2-1-1024x1024.jpg",
+      "type": "Giày da",
+      "description": "",
+      "createdAt": 1669388058071,
+      "id": 37
+    },
+    {
+      "name": "THE MARS WOLF CHELSEA BOOT ",
+      "price": "2,400,000₫",
+      "image": "https://product.hstatic.net/200000033444/product/1_37683ec15b594dd79467d3a367f77090_master.jpg",
+      "type": "Giày Chelsea Boot",
+      "description": "",
+      "createdAt": 1669388304781,
+      "id": 39
+    },
+    {
+      "name": "THE CLASSIC CHELSEA BOOT - ĐEN DA LỘN",
+      "price": "1,080,000₫",
+      "image": "https://product.hstatic.net/200000033444/product/1_cdf240ac00be4a75a08675e963e95543_master.jpg",
+      "type": "Giày Chelsea Boot",
+      "description": "",
+      "createdAt": 1669388376979,
+      "id": 40
+    }
+  ]
+}
